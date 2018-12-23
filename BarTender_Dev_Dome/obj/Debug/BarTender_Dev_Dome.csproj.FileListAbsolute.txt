@@ -1,0 +1,11 @@
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\bin\Debug\BarTender_Dev_Dome.exe.config
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\bin\Debug\BarTender_Dev_Dome.exe
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\bin\Debug\BarTender_Dev_Dome.pdb
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\obj\Debug\BarTender_Dev_Dome.csprojAssemblyReference.cache
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\obj\Debug\BarTender_Dev_Dome.Properties.Resources.resources
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\obj\Debug\BarTender_Dev_Dome.csproj.GenerateResource.cache
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\obj\Debug\BarTender_Dev_Dome.csproj.CoreCompileInputs.cache
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\obj\Debug\BarTender_Dev_Dome.csproj.CopyComplete
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\obj\Debug\BarTender_Dev_Dome.exe
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\obj\Debug\BarTender_Dev_Dome.pdb
+D:\C#\BarTender_Dev_Dome\BarTender_Dev_Dome\BarTender_Dev_Dome\obj\Debug\BarTender_Dev_Dome.PrintForm.resources
