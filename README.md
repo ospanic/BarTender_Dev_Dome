@@ -8,7 +8,7 @@
 
 BarTender 10.1 版本的软件可点击此处[此处](https://ai-thinker.oss-cn-shenzhen.aliyuncs.com/SimpleBarPrinter%2FBarTender_10_1.rar)下载。
 
-#安装破解方法
+# 安装破解方法
 
 1.双击软件安装包，一路NEXT完成安装。
 
